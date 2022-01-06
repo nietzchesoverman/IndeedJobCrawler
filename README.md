@@ -12,7 +12,7 @@ Crawls for all jobs around a certain location's radius, given a starting link on
 # Use
 1) Find an Indeed search page for a certain job with your desired criteria:
 
-    ![IndeedPage](https://user-images.githubusercontent.com/56315562/148317829-31ec1c9b-0004-4418-a9bf-5edc7b630eff.jpg)
+    ![IndeedPage](https://user-images.githubusercontent.com/56315562/148318596-133ffe9c-5557-456b-b1be-2244e7cc5a50.jpg)
 
 
 2) Change the starting link to that of your desired criteria (you can use multiple crawl start links to search for a mass industry of jobs):
