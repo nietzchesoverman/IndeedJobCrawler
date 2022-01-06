@@ -1,4 +1,4 @@
-**# INDEED JOB CRAWLER V1.0**
+# INDEED JOB CRAWLER V1.0
 Crawls for all jobs around a certain location's radius, given a starting link on the career board Indeed.com - Utilizes Scrapy API as a base
 
 # Requirements / Features
